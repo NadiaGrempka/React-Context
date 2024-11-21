@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Smartfon XYZ",
+      "category": "Elektronika",
+      "quantity": 50,
+      "unitPrice": 299.99,
+      "dateAdded": "2024-04-15",
+      "supplier": "TechSupply Co."
+    },
+    {
+      "id": 2,
+      "name": "Kurtka zimowa ABC",
+      "category": "Odzież",
+      "quantity": 120,
+      "unitPrice": 89.99,
+      "dateAdded": "2024-05-10",
+      "supplier": "FashionHouse Ltd."
+    },
+    {
+      "id": 3,
+      "name": "Chleb razowy",
+      "category": "Żywność",
+      "quantity": 200,
+      "unitPrice": 3.49,
+      "dateAdded": "2024-10-20",
+      "supplier": "BakeryFresh"
+    }
+  ]
+
+}

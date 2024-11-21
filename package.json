@@ -1,0 +1,19 @@
+{
+  "name": "untitled",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "express-handlebars": "^8.0.1",
+    "formik": "^2.4.6",
+    "next": "15.0.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "yup": "^1.4.0"
+  }
+}
